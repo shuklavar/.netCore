@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="yes"?>
+<Customers>
+  <customer>
+    <Custid>101</Custid>
+    <Name>Varunakar</Name>
+    <Balance>25000</Balance>
+    <City>Hyderabad</City>
+    <Status>False</Status>
+  </customer>
+  <customer>
+    <Custid>102</Custid>
+    <Name>Karunakar</Name>
+    <Balance>27000</Balance>
+    <City>Indore</City>
+    <Status>False</Status>
+  </customer>
+  <customer>
+    <Custid>103</Custid>
+    <Name>Gopal</Name>
+    <Balance>28000</Balance>
+    <City>Nagpur</City>
+    <Status>False</Status>
+  </customer>
+  <customer>
+    <Custid>105</Custid>
+    <Name>Shukla</Name>
+    <Balance>60000</Balance>
+    <City>Pune</City>
+    <Status>False</Status>
+  </customer>
+  <customer>
+    <Custid>7</Custid>
+    <Name>Varunakar</Name>
+    <Balance>720000</Balance>
+    <City>Delhi</City>
+    <Status>True</Status>
+  </customer>
+</Customers>
